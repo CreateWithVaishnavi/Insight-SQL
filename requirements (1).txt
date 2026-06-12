@@ -1,0 +1,6 @@
+groq
+streamlit
+plotly
+pandas
+sqlalchemy
+datasets
